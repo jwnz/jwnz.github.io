@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[755],{6355:e=>{e.exports=JSON.parse('{"label":"korquad","permalink":"/tags/korquad","allTagsPath":"/tags","count":1}')}}]);

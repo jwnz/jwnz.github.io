@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jwnz.github.io/ko/</id>
+    <title>YYYYYY</title>
+    <updated>2023-04-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jwnz.github.io/ko/"/>
+    <subtitle>asdf</subtitle>
+    <entry>
+        <title type="html"><![CDATA[LittleBird: Efficient Faster & Longer Transformer for Question Answering]]></title>
+        <id>https://jwnz.github.io/ko/littlebird</id>
+        <link href="https://jwnz.github.io/ko/littlebird"/>
+        <updated>2023-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[작성 중입니다]]></summary>
+        <content type="html"><![CDATA[<p>작성 중입니다</p>]]></content>
+        <category label="nlp" term="nlp"/>
+        <category label="transformers" term="transformers"/>
+        <category label="koreannlp" term="koreannlp"/>
+        <category label="korquad" term="korquad"/>
+        <category label="deeplearning" term="deeplearning"/>
+    </entry>
+</feed>

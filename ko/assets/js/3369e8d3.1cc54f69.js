@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[971],{5572:e=>{e.exports=JSON.parse('{"permalink":"/ko/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"\ube14\ub85c\uadf8","blogTitle":"\ube14\ub85c\uadf8"}')}}]);
