@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[181],{6613:e=>{e.exports=JSON.parse('{"label":"koreannlp","permalink":"/tags/koreannlp","allTagsPath":"/tags","count":1}')}}]);

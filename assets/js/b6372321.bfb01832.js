@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[444],{3351:e=>{e.exports=JSON.parse('{"label":"paper implementation","permalink":"/tags/paper-implementation","allTagsPath":"/tags","count":1}')}}]);

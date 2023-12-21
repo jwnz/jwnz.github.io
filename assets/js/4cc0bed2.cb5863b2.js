@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[421],{8911:a=>{a.exports=JSON.parse('{"label":"transformer variant","permalink":"/tags/transformer-variant","allTagsPath":"/tags","count":1}')}}]);

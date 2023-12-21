@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"\ucd5c\uc2e0\uae00","items":[{"title":"LittleBird: Efficient Faster & Longer Transformer for Question Answering","permalink":"/ko/littlebird","unlisted":false}]}')}}]);

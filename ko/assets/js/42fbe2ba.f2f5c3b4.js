@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[427],{591:e=>{e.exports=JSON.parse('{"label":"seq2seq","permalink":"/ko/tags/seq-2-seq","allTagsPath":"/ko/tags","count":1,"unlisted":false}')}}]);

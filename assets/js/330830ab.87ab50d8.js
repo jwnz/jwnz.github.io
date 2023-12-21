@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[889],{7045:e=>{e.exports=JSON.parse('{"label":"sparse attention","permalink":"/tags/sparse-attention","allTagsPath":"/tags","count":1}')}}]);
